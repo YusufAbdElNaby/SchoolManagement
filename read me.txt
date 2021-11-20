@@ -1,0 +1,6 @@
+databbase is mysql
+
+you have to create the schema first with file name schema.sql
+
+you will found school.postman_collection(import it into post man) to use it to test the application
+
